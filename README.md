@@ -1,4 +1,4 @@
-# csgo---data-analysis
+# csgo-data-analysis
 # 🎮 Análisis de datos - Counter Strike
 
 ## 📊 Descripción
