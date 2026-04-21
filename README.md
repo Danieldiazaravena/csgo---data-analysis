@@ -16,4 +16,4 @@ Proyecto de análisis de datos utilizando Python para explorar estadísticas del
 - Modelos de clasificación y regresión
 
 ## 📁 Dataset
-- Archivo en Readme "Anexo_ET_demo_round_traces_2022"
+- Archivo en este repositorio "Anexo_ET_demo_round_traces_2022"
